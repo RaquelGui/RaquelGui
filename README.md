@@ -1,4 +1,4 @@
-<h1 align="center"> 👨‍💻 Who am i </h1>
+<h1 align="center"> 👨‍💻 Who am I </h1>
 
 ---
 
