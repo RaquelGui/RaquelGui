@@ -13,7 +13,7 @@
   
 </p>
 
-- &#128214; I'm currently learning ***Python***.
+- &#128214; I'm currently learning ***Python*** and ***MySQL***.
 - &#11088; I work on ***Improving my skills*** in free time.
 - &#127754; I'm a ***scuba diver***.
 - &#128366; I love ***reading***.
