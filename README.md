@@ -37,6 +37,14 @@
 ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
 
 
+<h2 align="center"> :student: Databases</h2>
+
+---
+
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
+
 <h2 align="center">:computer: Software and Tools</h2>
 
 ---
@@ -55,12 +63,12 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript)
 ![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)
-![React Native](https://img.shields.io/badge/React-Native-000?style=for-the-badge&logo=React-Native)
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Angular](https://img.shields.io/badge/Angular-000?style=for-the-badge&logo=angular&logoColor=C3002F)
 
 
 <h2  align="center">&#x1F4EC; Connect with me</h2>
----
+
 
 <p align = "center">  
 
