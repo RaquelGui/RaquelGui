@@ -1,24 +1,23 @@
-<h1 align="center"> 👨‍💻 Who am I </h1>
+<h1 align="center"> Hello, world. </h1>
 
 ---
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=17DBFF&width=435&lines=Hey+there%2C+I'm+Raquel.;who+loves+to+learn;who+is+very+curious" alt="Typing SVG" >
-
-
 <p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=17DBFF&width=435&lines=Hey+there%2C+I'm+Raquel.;who+loves+to+learn;who+is+very+curious" alt="Typing SVG" ></p>
+
+
+<p align="left">
   <br>
-  I'm Raquel G, I love learning.
-  Programming keeps me focused.
-  <br> <br>
-  
+  I'm Raquel G, I love learning. Programming keeps me focused.
+  <br>
 </p>
 
 - &#128214; I'm currently learning ***Python*** and ***MySQL***.
 - &#11088; I work on ***Improving my skills*** in free time.
-- &#127754; I'm a ***scuba diver***.
-- &#128366; I love ***reading***.
+- &#128187; I love ***Tech***.
+- &#128366; I like ***reading***.
 - &#128526; I enjoy new ***adventures***. 
-- &#128187; I like ***Tech***.
+
 
 
 <h2 align="center"> :student: Markup Languages</h2>
@@ -35,7 +34,7 @@
 ---
 
 ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
-
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
 <h2 align="center"> :student: Databases</h2>
 
@@ -55,7 +54,6 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 
-
 <h2 align="center"> :student: Next Steps</h2>
 
 ---
@@ -69,6 +67,7 @@
 
 <h2  align="center">&#x1F4EC; Connect with me</h2>
 
+---
 
 <p align = "center">  
 
